@@ -54,7 +54,7 @@
             <input type="submit" value="Sign out" class="logout-button">
          </form>
       </div>
-
+	  
    <div id="wrap">
       <!--<form action="#.php" method="post">-->
          <div id="content">
@@ -90,6 +90,15 @@
                            </ul>
                         </div>
                      </form>
+					 <!--First tooltip-->
+	<a href="#" class="tooltip">
+		Tooltip
+		<span>
+			<img class="callout" src="images/callout_black.gif" />
+			<strong>Most Light-weight Tooltip</strong><br />
+			This is the easy-to-use Tooltip driven purely by CSS.
+		</span>
+	</a>  
                   </td>
 
                   <td id="middle">
